@@ -1,0 +1,16 @@
+Name: Michael Moore
+ID: SJ50413
+
+Notes: 
+Everything from the shader demo slides seems to be working. The only things that
+I had trouble with was calculating the shadow for the cloud material. 
+
+Image: 
+https://drive.google.com/file/d/10J26etPSnJd3nX03Bss1iNAQ8AXy8whx/view?usp=sharing
+
+Material Graph:
+https://drive.google.com/file/d/1plXLni10OHeKAHo4HlbDgx0jsY3LuAxN/view?usp=sharing
+
+Video:
+https://drive.google.com/file/d/1QJUHmQcC3dNXj3ty-BU5v5Hgdsxi4Dp1/view?usp=sharing
+

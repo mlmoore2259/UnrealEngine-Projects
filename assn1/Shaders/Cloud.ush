@@ -1,0 +1,33 @@
+float CloudDensity(float3 P)
+{
+    float Mask = smoothstep(1, 0.8, dot(P,P));
+    float Noise = MaterialExpressionNoise(P,4,1,2,0,1,-0.2,1,2,0,0,512);
+    return Mask * Noise;
+}
+
+float4 Cloud(FMaterialPixelParameters Parameters, int MaxSteps, float3 Albedo)
+{
+    FWSVector3 Pos = GetWorldPosition(Parameters);
+    FWSVector3 Ctr = GetObjectWorldPosition(Parameters);
+    
+    float Size =     GetPrimitiveData(Parameters).ObjectBoundsX;
+    Size = max(Size, GetPrimitiveData(Parameters).ObjectBoundsY);
+    Size = max(Size, GetPrimitiveData(Parameters).ObjectBoundsZ);
+
+    float3 P = WSDemote(WSSubtract(Pos, Ctr)) / Size;
+
+    float3 RayStep = (-2. / MaxSteps) * Parameters.CameraVector;
+
+    P += RayStep * ViewScalarBlueNoise(GetPixelPosition(Parameters), View.StateFrameIndex);
+    float3 L = MaterialExpressionAtmosphericLightVector(Parameters);
+
+    float4 Color = 0;
+    for (int i=0; i < MaxSteps && dot(P,P) < 1; ++i, P += RayStep) 
+    {
+        float PdotL = dot(P,L);
+        float t = 1 - saturate(sqrt(1+PdotL*PdotL - dot(P,P)) - PdotL);
+        float4 LocalColor = float4(t*Albedo,1) * CloudDensity(P);
+        Color += (1 - Color.a) * LocalColor;
+    }
+    return Color;
+}
