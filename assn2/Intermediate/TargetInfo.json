@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "assn2",
+			"Path": "..\\Source\\assn2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "assn2Editor",
+			"Path": "..\\Source\\assn2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

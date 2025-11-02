@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.assn2.gen.cpp.obj": [
+			"assn2.init.gen.cpp.obj",
+			"MazeActor.gen.cpp.obj"
+		]
+	}
+}

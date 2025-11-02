@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/g4g2025/assn2/Content/__ExternalActors__/assn2/5/DN/GIRY9TAABPTU3AN0RWPK1V.uasset",
+				"D:/g4g2025/assn2/Content/TestMaterial.uasset",
+				"D:/g4g2025/assn2/Content/__ExternalActors__/assn2/5/G2/Z81IP3G7GIN2G6JH5LYQI0.uasset",
+				"D:/g4g2025/assn2/Content/__ExternalActors__/assn2/7/CS/F0FSKA6F8HDUTLGXXW01B3.uasset",
+				"D:/g4g2025/assn2/Content/__ExternalActors__/assn2/8/3L/G47ME4XY1QPV53FFZUNSX8.uasset",
+				"D:/g4g2025/assn2/Content/__ExternalActors__/assn2/D/9B/0OGJUGLV1OW917EHILYVO1.uasset",
+				"D:/g4g2025/assn2/Content/__ExternalActors__/assn2/2/JE/D616HGG574AOL2LB1D5FNG.uasset",
+				"D:/g4g2025/assn2/Content/__ExternalActors__/assn2/4/VE/M998IKUL4PHCVT12VFBFE2.uasset"
+			]
+		}
+	]
+}

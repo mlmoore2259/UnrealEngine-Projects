@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-assn2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/g4g2025/assn2/Intermediate/Build/Win64/x64/assn2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/g4g2025/assn2/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn2/Module.assn2.gen.cpp.obj"
+"D:/g4g2025/assn2/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn2/assn2.cpp.obj"
+"D:/g4g2025/assn2/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn2/MazeActor.cpp.obj"
+"D:/g4g2025/assn2/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn2/PerModuleInline.gen.cpp.obj"
+"D:/g4g2025/assn2/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn2/Default.rc2.res"
+/OUT:"D:/g4g2025/assn2/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn2/UnrealEditor-assn2.lib"

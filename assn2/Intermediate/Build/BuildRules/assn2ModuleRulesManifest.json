@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\g4g2025\\assn2\\Source\\assn2\\assn2.Build.cs",
+		"D:\\g4g2025\\assn2\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"D:\\g4g2025\\assn2\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"D:\\g4g2025\\assn2\\Source\\assn2.Target.cs",
+		"D:\\g4g2025\\assn2\\Source\\assn2Editor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

@@ -1,0 +1,24 @@
+Name: Michael Moore
+ID: SJ50413
+
+Notes: The maze generation algorithm and rendering of the walls is working. It uses a number to seed the generation and it takes a square size. Both of which can be changed in the detail menu of the unreal editor. The maze is always square, but could be made to not always be square by changing some parameters and indexing logic. The maze always creates both an entrance and exit at two opposite corners. 
+
+Images: 
+Seed: 1234 (Default)
+Size: 5 (Default)
+https://drive.google.com/file/d/1X2WztDiFfIKKa181dOPq5FWJF9GHEcE0/view?usp=sharing
+
+Seed: 5
+Size: 9
+https://drive.google.com/file/d/1WgmoonjYSZToFDqyxxVzvNdcoyRDF8JB/view?usp=sharing
+
+Seed: 78
+Size: 9
+https://drive.google.com/file/d/1FPVS9KL8Xub0Igush9HnWalOJ3vkXiSH/view?usp=sharing
+
+Seed: 12
+Size: 15
+https://drive.google.com/file/d/1Bmz_B7P1-h93CWKe76oDbkmJErNO3w6J/view?usp=sharing
+
+Material Graph:
+https://drive.google.com/file/d/1c8DKXDLPUMWoMlb8auI-fO86kPKjDpZz/view?usp=sharing
