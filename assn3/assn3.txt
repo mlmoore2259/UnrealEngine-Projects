@@ -1,0 +1,13 @@
+Name: Michael Moore
+ID: SJ50413
+
+Notes: I tried to implement the three boid behavior rules found in the source below. I have the functions to implement them, but
+in the video the actors only have simple physics. There is something wrong where my Tick() function wasn't being called and I couldn't 
+figure out why. I had a log in the Tick() function, but it would never appear even if I made sure ticking was enabled in the constructor. 
+I do have the neighborhood set and neighborhood tracking working as you can see in the output log. 
+
+Source:
+http://www.kfish.org/boids/pseudocode.html
+
+video:
+https://drive.google.com/file/d/1va-bPu5WRiHphOQSgqpIpgcgEVYUQdrd/view?usp=drive_link

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-assn3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/assn3Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/Module.assn3.cpp.obj"
+"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/AIController1.cpp.obj"
+"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/Default.rc2.res"
+/OUT:"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/UnrealEditor-assn3.lib"

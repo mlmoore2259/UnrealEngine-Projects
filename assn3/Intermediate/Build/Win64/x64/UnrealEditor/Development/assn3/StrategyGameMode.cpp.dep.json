@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\g4g2025\\assn3\\source\\assn3\\variant_strategy\\strategygamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\x64\\assn3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assn3\\definitions.assn3.h",
+            "d:\\g4g2025\\assn3\\source\\assn3\\variant_strategy\\strategygamemode.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\unrealeditor\\inc\\assn3\\uht\\strategygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\unrealeditor\\inc\\assn3\\uht\\twinstickpickup.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\x64\\assn3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assn3\\definitions.assn3.h",
+            "d:\\g4g2025\\assn3\\source\\assn3\\variant_twinstick\\gameplay\\twinstickpickup.h",
+            "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\unrealeditor\\inc\\assn3\\uht\\twinstickpickup.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

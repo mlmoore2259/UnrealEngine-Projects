@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\unrealeditor\\inc\\assn3\\uht\\twinstickspawner.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\x64\\assn3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assn3\\definitions.assn3.h",
+            "d:\\g4g2025\\assn3\\source\\assn3\\variant_twinstick\\ai\\twinstickspawner.h",
+            "d:\\g4g2025\\assn3\\source\\assn3\\variant_twinstick\\ai\\twinsticknpc.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\unrealeditor\\inc\\assn3\\uht\\twinsticknpc.generated.h",
+            "d:\\g4g2025\\assn3\\intermediate\\build\\win64\\unrealeditor\\inc\\assn3\\uht\\twinstickspawner.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
