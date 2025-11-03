@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.assn4_plugin.cpp.obj": [
+			"assn4_plugin.init.gen.cpp.obj",
+			"assn4_pluginBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"assn4_plugin.cpp.obj",
+			"assn4_pluginBPLibrary.cpp.obj"
+		]
+	}
+}

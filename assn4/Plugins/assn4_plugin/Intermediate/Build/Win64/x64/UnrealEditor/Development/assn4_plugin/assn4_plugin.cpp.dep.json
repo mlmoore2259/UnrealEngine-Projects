@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\g4g2025\\assn4\\plugins\\assn4_plugin\\source\\assn4_plugin\\private\\assn4_plugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\g4g2025\\assn4\\intermediate\\build\\win64\\x64\\assn4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\g4g2025\\assn4\\plugins\\assn4_plugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assn4_plugin\\definitions.assn4_plugin.h",
+            "d:\\g4g2025\\assn4\\plugins\\assn4_plugin\\source\\assn4_plugin\\public\\assn4_plugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

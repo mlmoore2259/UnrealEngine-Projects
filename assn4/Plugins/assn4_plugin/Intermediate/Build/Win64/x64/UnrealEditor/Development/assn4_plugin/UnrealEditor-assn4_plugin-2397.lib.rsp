@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-assn4_plugin-2397.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/g4g2025/assn4/Intermediate/Build/Win64/x64/assn4Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/g4g2025/assn4/Plugins/assn4_plugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn4_plugin/assn4_plugin.cpp.obj"
+"D:/g4g2025/assn4/Plugins/assn4_plugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn4_plugin/assn4_pluginBPLibrary.cpp.obj"
+"D:/g4g2025/assn4/Plugins/assn4_plugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn4_plugin/PerModuleInline.gen.cpp.obj"
+"D:/g4g2025/assn4/Plugins/assn4_plugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn4_plugin/assn4_plugin.init.gen.cpp.obj"
+"D:/g4g2025/assn4/Plugins/assn4_plugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn4_plugin/assn4_pluginBPLibrary.gen.cpp.obj"
+"D:/g4g2025/assn4/Plugins/assn4_plugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn4_plugin/Default.rc2.res"
+/OUT:"D:/g4g2025/assn4/Plugins/assn4_plugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn4_plugin/UnrealEditor-assn4_plugin-2397.lib"

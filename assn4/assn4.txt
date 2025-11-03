@@ -1,0 +1,29 @@
+Name: Michael Moore
+ID: SJ50413
+
+Notes: 
+All of the construction scripts work. The original construction script is just random using the 
+given blueprint nodes, the revised version works the same it just uses the assn4 plugin. The 
+construction script with Mitchell's Best Candidate algorithm is similar to the revised one 
+except it is no longer random. Since the mesh I used is bigger than the example I had to 
+increase the size of the area that they are generated to make the results more obvious. 
+The images below use the default seed of 0. 
+
+Images: 
+10 Count Mitchells: 
+https://drive.google.com/file/d/1qDffNCC-bwg6GIJhMo3yrMBfdT9GLi1H/view?usp=drive_link
+
+10 Count Random:
+https://drive.google.com/file/d/1Dvbqq8hGOEuPqvA2I50Q-SHoAc3dfUOB/view?usp=drive_link
+
+50 Count Mitchells:
+https://drive.google.com/file/d/1tORQOrfsWZIBQDDI16GSMRFUyLCPG2rE/view?usp=drive_link
+
+50 Count Random: 
+https://drive.google.com/file/d/1jeCc9VdRL6sbziHmt0Ur3mtgXRLV_xRQ/view?usp=drive_link
+
+100 Count Mitchells: 
+https://drive.google.com/file/d/1OcvWbBrranp-17ayNLTOdlUK6OxWmd96/view?usp=drive_link
+
+100 Count Random:
+https://drive.google.com/file/d/1WAvTpRNtv0WUubkPA7wLcNbT4WqBgDSo/view?usp=drive_link
