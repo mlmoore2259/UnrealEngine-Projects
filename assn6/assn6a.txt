@@ -1,0 +1,11 @@
+Name: Michael Moore
+ID: SJ50413
+
+Computer:
+OS: Windows 11
+Cores: 8
+RAM: 16 GB
+Processor: AMD Ryzen 7
+
+Build Time:
+4 hours 18 minutes

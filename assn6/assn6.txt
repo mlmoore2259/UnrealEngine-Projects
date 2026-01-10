@@ -1,0 +1,32 @@
+Name: Michael Moore
+ID: SJ50413
+
+Discovery: 
+PostProcessSelectionOutline.usf:
+- This is the shader file that we will edit to change the look of the selection outline.
+- They use a struct to keep track of each pixels information.
+- The PerSample function takes in an instance of the struct and its position and calculates the color that it should be.
+- The MainPS function is the main function that uses the PerSample function to render the selection outline. 
+- The MainPS function uses the pixels neighbors when determining the color.
+
+PostProcessSelectionOutline.h:
+- This file contains a class, a struct and a global function. I wonder why one is a class and one is a struct?
+- The FSceneUniformBuffer class is used to contain the raster results. 
+- The FSelectionOutlineInputs struct Has three required variables for the scene and two variables that are optional to use.
+- The global function AddSelectionOutlinePass uses the previously mentioned objects as parameters, along with some other variables.
+
+PostProcessSelectionOutline.cpp:
+- Most of this file is the AddSelectionOutlinePass function. 
+- There is a namespace at the beginning that creates the base for the shader struct. It also has functions that return whether it supports HDR and whether it should compile.
+- The function starts by checking whether everything is valid and then moves on to generating the outline of the shape. 
+- It mentions a couple times "Stereo views" which seems to be Unreal's VR editor.
+- If the output of the outline is valid, it then moves onto rendering the outline in the second half of the function.
+- The selection outline renderer uses the PassParameters object a lot, i think this is how things from cpp files get passed to the usf file. 
+- Theres a section of the function that adjusts for output settings. 
+
+Notes: 
+I think that the selection tool works as it should as described in the assignment. I did have to make a big change in my implementation, I realized that I was focusing on the wrong parts of the shader file so I went back to the original file from the engine and redid my implementation to get the final product. I messed around with the scale factors for a while, I wasn't sure how the CVar values should align with the selection tool look. I normalized them so that when they have the value 1 that is their normal value. 
+
+Video:
+https://drive.google.com/file/d/1NmmQcW_TVxuD607T-rmTm0lgjjd7n_0X/view?usp=drive_link
+
