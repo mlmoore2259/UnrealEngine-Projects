@@ -43,17 +43,14 @@ void AAIController1::AddNeighbors(UPrimitiveComponent* OverlappedComponent, AAct
 }
 
 void AAIController1::RemoveNeighbors(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex) {
-<<<<<<< HEAD
+
 	if (OtherActor && OtherActor != GetPawn() && Neighbors.Contains(OtherActor)) {
-=======
-	if (OtherActor && OtherActor != GetPawn()) {
->>>>>>> 76bb4959976920660a59940a9ed3be1cff548c19
+
 		Neighbors.Remove(OtherActor);
 	}
 	UE_LOG(LogTemp, Warning, TEXT("Neighbor Removed: %s | Total: %d"),
 		*OtherActor->GetName(),
 		Neighbors.Num());
-<<<<<<< HEAD
 }
 
 FVector AAIController1::BoidRuleOne(AActor* boid) {
@@ -104,6 +101,4 @@ FVector AAIController1::BoidRuleThree(AActor* boid) {
 	pv = pv / count;
 	return (pv - boid->GetVelocity()) * RuleThreeCoeff;
 }
-=======
-}	
->>>>>>> 76bb4959976920660a59940a9ed3be1cff548c19
+

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj": {}
+    "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1177,14 +1177,14 @@
         }
       }
     },
-    "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj": {
+    "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
+        "projectUniqueName": "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
         "projectName": "assn3ModuleRules",
-        "projectPath": "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
+        "projectPath": "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
         "packagesPath": "C:\\Users\\mlmoo\\.nuget\\packages\\",
-        "outputPath": "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\obj\\",
+        "outputPath": "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

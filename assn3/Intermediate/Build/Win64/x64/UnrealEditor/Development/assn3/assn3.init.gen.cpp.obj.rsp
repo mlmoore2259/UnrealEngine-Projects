@@ -1,12 +1,12 @@
-"D:/g4g2025/assn3/Intermediate/Build/Win64/UnrealEditor/Inc/assn3/UHT/assn3.init.gen.cpp"
-@"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/assn3.Shared.rsp"
-/FI"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/assn3Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/Definitions.assn3.h"
-/Yu"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/assn3Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/assn3Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/assn3.init.gen.cpp.obj"
-/experimental:log "D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/assn3.init.gen.cpp.sarif"
-/sourceDependencies "D:/g4g2025/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/assn3.init.gen.cpp.dep.json"
+"D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/UnrealEditor/Inc/assn3/UHT/assn3.init.gen.cpp"
+@"D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/assn3.Shared.rsp"
+/FI"D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/x64/assn3Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/Definitions.assn3.h"
+/Yu"D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/x64/assn3Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/x64/assn3Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/assn3.init.gen.cpp.obj"
+/experimental:log "D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/assn3.init.gen.cpp.sarif"
+/sourceDependencies "D:/UnrealEngine-Projects/assn3/Intermediate/Build/Win64/x64/UnrealEditor/Development/assn3/assn3.init.gen.cpp.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

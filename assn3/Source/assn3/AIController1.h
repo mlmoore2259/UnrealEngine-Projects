@@ -22,7 +22,7 @@ public:
 	}
 
 	UPROPERTY(EditAnywhere)
-	float NeighborhoodRadius = 300.0f;
+	float NeighborhoodRadius = 500.0f;
 
 	UPROPERTY()
 	USphereComponent* SphereComponent;
@@ -30,7 +30,6 @@ public:
 	UPROPERTY(VisibleAnywhere, Transient)
 	TSet<AActor*> Neighbors = TSet<AActor*>();
 
-<<<<<<< HEAD
 	UPROPERTY(EditAnywhere)
 	float RuleOneCoeff = 0.03f;
 
@@ -53,8 +52,6 @@ public:
 
 	//void OnUnPossess() override;
 
-=======
->>>>>>> 76bb4959976920660a59940a9ed3be1cff548c19
 	UFUNCTION()
 	void AddNeighbors(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
 

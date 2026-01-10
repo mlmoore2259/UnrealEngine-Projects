@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+uoKGME6CU=",
+  "dgSpecHash": "PNwUeXVsz6Q=",
   "success": true,
-  "projectFilePath": "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
+  "projectFilePath": "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mlmoo\\.nuget\\packages\\bitfaster.caching\\2.5.4\\bitfaster.caching.2.5.4.nupkg.sha512",
     "C:\\Users\\mlmoo\\.nuget\\packages\\blake3\\2.0.0\\blake3.2.0.0.nupkg.sha512",
@@ -131,9 +131,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.Build 17.14.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
+      "projectPath": "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
+      "filePath": "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
       "libraryId": "Microsoft.Build",
       "targetGraphs": [
         "net8.0"
@@ -143,9 +143,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.IO.Redist 6.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
+      "projectPath": "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\g4g2025\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
+      "filePath": "D:\\UnrealEngine-Projects\\assn3\\Intermediate\\Build\\BuildRulesProjects\\assn3ModuleRules\\assn3ModuleRules.csproj",
       "libraryId": "Microsoft.IO.Redist",
       "targetGraphs": [
         "net8.0"

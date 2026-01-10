@@ -2,8 +2,6 @@
 	"RemapUnityFiles": 
 	{
 		"Module.assn3.cpp.obj": [
-			"AIController1.gen.cpp.obj",
-			"assn3.init.gen.cpp.obj",
 			"assn3Character.gen.cpp.obj",
 			"assn3GameMode.gen.cpp.obj",
 			"assn3PlayerController.gen.cpp.obj",
@@ -26,7 +24,6 @@
 			"TwinStickStateTreeUtility.gen.cpp.obj",
 			"TwinStickUI.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
-			"AIController1.cpp.obj",
 			"assn3.cpp.obj",
 			"assn3Character.cpp.obj",
 			"assn3GameMode.cpp.obj",
@@ -48,7 +45,10 @@
 			"TwinStickCharacter.cpp.obj",
 			"TwinStickGameMode.cpp.obj",
 			"TwinStickPlayerController.cpp.obj",
-			"TwinStickUI.cpp.obj"
+			"TwinStickUI.cpp.obj",
+			"AIController1.gen.cpp.obj",
+			"assn3.init.gen.cpp.obj",
+			"AIController1.cpp.obj"
 		]
 	}
 }
