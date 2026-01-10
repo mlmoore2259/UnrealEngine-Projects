@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\g4g2025\\assn5\\plugins\\objectimporter\\source\\objectimporter\\private\\objectimporter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\g4g2025\\assn5\\intermediate\\build\\win64\\x64\\assn5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\objectimporter\\definitions.objectimporter.h",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\source\\objectimporter\\public\\objectimporter.h",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\source\\objectimporter\\private\\assetloader.h",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\objectimporter\\uht\\assetloader.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ObjectImporter.cpp.obj": [
+			"AssetLoader.gen.cpp.obj",
+			"ObjectImporter.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AssetLoader.cpp.obj",
+			"ObjectImporter.cpp.obj"
+		]
+	}
+}

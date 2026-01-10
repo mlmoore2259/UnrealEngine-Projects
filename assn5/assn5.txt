@@ -1,0 +1,14 @@
+Name: Michael Moore
+ID: SJ50413
+
+Notes: 
+I think almost everything is working as it should be except for the format section of the material editor. I couldn't find the way to change it to PFM so I changed it to floatRGBA which seemed the most reasonable. I tested all of the given PFM files on spheres and they seemed to work. I used the beach_probe.pfm file for the material preview object. I also included an extra screenshot of all of the files used on spheres, I had it so I figured why not. 
+
+Editor: 
+https://drive.google.com/file/d/1iL5nggAy1BuxdsvlegOWb4eKtibYodTe/view?usp=drive_link
+
+Material Preview:
+https://drive.google.com/file/d/1kpVNKnzXDN6aRJ4ZOY74ep9rC86nSawb/view?usp=drive_link
+
+Spheres (extra):
+https://drive.google.com/file/d/14kkHh00VppGSweJ5UW6Y8zp6I8fTw8wB/view?usp=drive_link

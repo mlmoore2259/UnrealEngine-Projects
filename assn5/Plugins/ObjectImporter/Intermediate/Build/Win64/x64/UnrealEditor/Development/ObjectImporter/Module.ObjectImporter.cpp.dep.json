@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\g4g2025\\assn5\\plugins\\objectimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\objectimporter\\module.objectimporter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\g4g2025\\assn5\\intermediate\\build\\win64\\x64\\assn5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\objectimporter\\definitions.objectimporter.h",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\objectimporter\\uht\\assetloader.gen.cpp",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\source\\objectimporter\\private\\assetloader.h",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\objectimporter\\uht\\assetloader.generated.h",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\objectimporter\\uht\\objectimporter.init.gen.cpp",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\objectimporter\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\source\\objectimporter\\private\\objectimporter.cpp",
+            "d:\\g4g2025\\assn5\\plugins\\objectimporter\\source\\objectimporter\\public\\objectimporter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

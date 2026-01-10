@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObjectImporter-0633.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/g4g2025/assn5/Intermediate/Build/Win64/x64/assn5Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/g4g2025/assn5/Plugins/ObjectImporter/Intermediate/Build/Win64/x64/UnrealEditor/Development/ObjectImporter/Module.ObjectImporter.cpp.obj"
+"D:/g4g2025/assn5/Plugins/ObjectImporter/Intermediate/Build/Win64/x64/UnrealEditor/Development/ObjectImporter/AssetLoader.cpp.obj"
+"D:/g4g2025/assn5/Plugins/ObjectImporter/Intermediate/Build/Win64/x64/UnrealEditor/Development/ObjectImporter/Default.rc2.res"
+/OUT:"D:/g4g2025/assn5/Plugins/ObjectImporter/Intermediate/Build/Win64/x64/UnrealEditor/Development/ObjectImporter/UnrealEditor-ObjectImporter-0633.lib"

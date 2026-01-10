@@ -1,0 +1,4 @@
+High dynamic range light probes by Paul Debevec, downloaded from
+http://www.pauldebevec.com/Probes/
+
+LDR versions created with ImageMagick: magick file.pfm file.png
